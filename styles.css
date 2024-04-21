@@ -1,0 +1,38 @@
+p {
+	color: #b3b3b3
+}
+
+img {
+	width: 1%;
+}
+
+a {
+	text-decoration: none;
+	color: #b3b3b3
+}
+
+section {
+	background: #ffe7d4;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.icon {
+	width: 2%;
+}
+
+.forum-header {
+	display: flex;
+	background: #ff7300;
+	color: #1c1c1b;
+	margin-bottom: 0px;
+}
+
+.post-head {
+	display: flex;
+	color: #1c1c1b;
+}
+
+.post-foot {
+	display: flex;
+}
